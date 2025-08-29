@@ -35,7 +35,7 @@ This is a **C# Scrabble replica** built using **Windows Forms** for the GUI. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Baraa-Shaheen/CSharp-Scrabble
+   git clone https://github.com/0baraa/CSharp-Scrabble
    ```
 2. Open the .sln file in Visual Studio.
 3. Build and run the project from Visual Studio.
