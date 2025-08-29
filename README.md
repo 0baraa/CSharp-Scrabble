@@ -2,7 +2,7 @@
   <img width="40%" src="https://github.com/Baraa-Shaheen/CSharp-Scrabble/blob/main/Scrabble/Resources/Scrabble-logo.png" alt="Scrabble Logo">
 </p>
 
-This is a **C# Scrabble replica** built using **Windows Forms** for the GUI. It was developed as part of my **A-Level Computer Science** project. The game follows the classic Scrabble rules and offers features like local multiplayer support, game saving, and a player statistics dashboard.
+This is a **C# Scrabble replica** built using **Windows Forms** for the GUI. The game follows the classic Scrabble rules and offers features like local multiplayer support, game saving, and a player statistics dashboard.
 
 ## Features
 
